@@ -6,7 +6,7 @@
 ### About me:
 - ✨ I’m currently studying Data Analytics and Computer Science at [Denison University](https://denison.edu/)
 
-- 🔭 I will do a research in **NLP and Deep Learning** this summer at Denison.
+- 🔭 I'm currently working as a research assistant in **Deep Learning** at Denison.
   
 - 🌱 I’m currently learning **Object-Oriented Programming and Machine Learning and Optimization Methods**.
   
