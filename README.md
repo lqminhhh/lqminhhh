@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Minh Le</h1>
 <h3 align="center">A passionate Data Analyst from Vietnam 🇻🇳</h3>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952vr0ot8vjd1lzi8av949w59nq8os380o0w2zusr0u&ep=v1_gifs_search&rid=200w.gif&ct=g">
@@ -6,7 +5,7 @@
 ### About me:
 - ✨ I’m currently studying Data Analytics and Computer Science at [Denison University](https://denison.edu/)
 
-- 🔭 I'm currently working as a research assistant in **Deep Learning** at Denison.
+- 🔭 I'm currently working as a Data Science Intern at **Park National Bank** and a research assistant in **Deep Learning** at Denison.
   
 - 🌱 I’m currently learning **Object-Oriented Programming and Machine Learning and Optimization Methods**.
   
