@@ -5,11 +5,11 @@
 ### About me:
 - ✨ I’m currently studying Data Analytics and Computer Science at [Denison University](https://denison.edu/)
 
-- 🔭 I'm currently working as a Data Science Intern at **Park National Bank** and a research assistant in **Deep Learning** at Denison.
+- 🔭 I'm currently working as a Data Science Intern at **Park National Bank**.
   
-- 🌱 I’m currently learning **Object-Oriented Programming and Machine Learning and Optimization Methods**.
+- 🌱 I’m currently learning **Statistical Modeling**.
   
-- 💻 I’m looking forward to a career in **Data Analytics and Data Science**.
+- 💻 I’m looking forward to a career in **Data Analytics/Data Science**.
 
 - 📫 How to reach me **le_m2@denison.edu**
 
