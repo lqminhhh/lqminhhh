@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Le</h1>
-<h3 align="center">A passionate Data Analyst from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate Data Analyst/Data Scientist from Vietnam 🇻🇳</h3>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952vr0ot8vjd1lzi8av949w59nq8os380o0w2zusr0u&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 ### About me:
