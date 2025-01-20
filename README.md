@@ -7,11 +7,11 @@
 
 - 🔭 I'm currently working as a Data Science Intern at **Park National Bank**.
   
-- 🌱 I’m currently learning **Statistical Modeling**.
+- 🌱 I’m currently learning **Statistical Modeling** and **Predictive Modeling**.
   
 - 💻 I’m looking forward to a career in **Data Analytics/Data Science**.
 
-- 📫 How to reach me **le_m2@denison.edu**
+- 📫 Please reach me via **le_m2@denison.edu** if you want to collaborate in any interesting projects. I'm open to any projects related to data!!!
 
 - 🤔 Pronouns: He/Him
 
