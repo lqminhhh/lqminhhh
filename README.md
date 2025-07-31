@@ -5,7 +5,7 @@
 ### About me:
 - ✨ I’m currently studying Data Analytics and Computer Science at [Denison University](https://denison.edu/)
 
-- 🔭 I'm currently working as a Data Science Intern at **Park National Bank**.
+- 🔭 I'm currently working as a Data Science Intern at **Park National Bank** and serving as an AI/ML Fellow at **Break Through Tech**.
   
 - 🌱 I’m currently learning **Statistical Modeling** and **Predictive Modeling**.
   
