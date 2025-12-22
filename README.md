@@ -11,6 +11,7 @@
 | | |
 |---|---|
 | • 🎓 **Data Analytics major (Economics concentration)** @ **Denison University**<br>• 🏦 Experience across **banking, insurance, logistics, and nonprofits**, building SQL/Python pipelines, ML models, and executive dashboards<br>• 🔍 Currently focused on **machine learning, predictive analytics, and applied AI**, with hands-on work in modeling, feature engineering, and evaluation at scale<br>• 🐶 Fun fact: I have a dog named **Avocado**<br>• 🚀 **Actively seeking a full-time Data Analyst / Data Scientist role starting May 2026** | <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220"/> |
+|||
 
 ## 🛠 Tech Stack
 <p>
@@ -39,11 +40,11 @@
 
 ## 📌 Featured Projects
 
-- 🎧 Audible Narrator Classifier | Senior Thesis
+- 🎧 **Audible Narrator Classifier** | Senior Thesis
   - Built a **CNN-based audio classification model** achieving **91% accuracy** on pitch-derived narrator features  
   - Engineered an end-to-end pipeline processing **2M+ audio records** using TensorFlow and DuckDB for efficient experimentation
 
-- 🚗 Allstate Claim Cost Prediction | AI/ML Fellowship
+- 🚗 **Allstate Claim Cost Prediction** | AI/ML Fellowship @ Break Through Tech
   - Performed EDA and feature engineering on **180K+ auto insurance claims** to uncover key cost drivers  
   - Improved baseline performance using **Random Forest and XGBoost**, achieving a **10% reduction in MAE**
 
