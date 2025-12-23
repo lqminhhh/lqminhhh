@@ -1,10 +1,7 @@
-<h1 align="left">👋 Minh Le</h1>
-
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/lqminhh">LinkedIn</a> •
-  <a href="https://github.com/lqminhhh">GitHub</a> •
-  <a href="mailto:le_m2@denison.edu">Email</a>
-</p> -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=lqminhhh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+<h1 align="left">👋 Minh Le </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/??font=Roboto&weight=300&size=30&pause=100&duration=4000&color=7B3FE4&width=1300&height=60&lines=Aspiring+Data+Scientist+%7C+Data+Analyst;Turning+data+into+business+impact)](https://git.io/typing-svg)
 
