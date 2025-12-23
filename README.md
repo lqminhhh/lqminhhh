@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=python,r,cpp" />
 
   <!-- ML / DL -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
 
   <!-- Data Science Libraries -->
@@ -94,6 +94,19 @@
 - Improved baseline performance using **Random Forest and XGBoost**, achieving a **10% reduction in MAE**
   
 </details>
+
+<details>
+  <summary>
+    💫 <b>Senior Consultant @ Denison Consulting Program </b>
+  </summary>
+  
+- Client 1: [FORJAK Industrial](https://www.forjakindustrial.com/)
+- Client 2: [Callahan & Associates](https://callahan.com/)
+- Client 3: [DHL Supply Chain](https://www.dhl.com/vn-en/home/supply-chain/about-us.html)
+- Client 4: [Capital Link](https://www.linkedin.com/company/capital-link-inc./)
+  
+</details>
+
 
 ## 📊 GitHub Stats
 
