@@ -10,41 +10,55 @@
 
 | | |
 |---|---|
-| • 🎓 **Data Analytics major (Economics concentration)** @ **Denison University**<br>• 🏦 Experience across **banking, insurance, logistics, and nonprofits**, building SQL/Python pipelines, ML models, and executive dashboards<br>• 🔍 Currently focused on **machine learning, predictive analytics, and applied AI**, with hands-on work in modeling, feature engineering, and evaluation at scale<br>• 🐶 Fun fact: I have a dog named **Avocado**<br>• 🚀 **Actively seeking a full-time Data Analyst / Data Scientist role starting May 2026** | <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220"/> |
+| • 🎓 **Data Analytics major (Economics concentration)** @ **Denison University**<br>• 🏦 Experience across **banking, insurance, logistics, and nonprofits**, building SQL/Python pipelines, ML models, and executive dashboards<br>• 🔍 Currently focused on **machine learning, predictive analytics, and applied AI**, with hands-on work in modeling, feature engineering, and evaluation at scale<br>• 🐶 Fun fact: I have a dog named **Avocado**🥑<br>• 🚀 **Actively seeking a full-time Data Analyst / Data Scientist role starting May 2026** | <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220"/> |
 |||
 
 ## 🛠 Tech Stack
+
 <p>
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,r,cpp" />
+
+  <!-- ML / DL -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="48"/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,mysql" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
+
+  <!-- Data Science Libraries -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="48"/>
+
+  <!-- Cloud / Databases -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,mysql,postgres" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="48">
+
+  <!-- Analytics / Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ## 🏆 Competition Achievements
 
-- 🥇 **1st Place @ Big Red Data Challenge** | [GiveSmart: Predictive Donor Analytics](https://github.com/lqminhhh/predictive-donor-analytics)
+- 🥇 **1st Place @ Big Red Data Challenge** | *[GiveSmart: Predictive Donor Analytics](https://github.com/lqminhhh/predictive-donor-analytics)*
   - Applied **clustering, RFM analysis, and survival modeling** to identify the top 20% of donors generating 80% of total revenue  
   - Built predictive forecasts identifying **$300K in incremental Q4 donations**, directly informing funding allocation decisions
 
-- 🥈 **2nd Place @ Accenture x University of Cincinnati Case Competition** | [Slide Deck](https://drive.google.com/file/d/1dH7nzJTK5Z-drj8Lvp-lC6TO3KPUKd8W/view)
+- 🥈 **2nd Place @ Accenture x University of Cincinnati Case Competition** | *[Slide Deck](https://drive.google.com/file/d/1dH7nzJTK5Z-drj8Lvp-lC6TO3KPUKd8W/view)*
   - Architected a **$125M+ digital transformation strategy** with a 12-month payback, grounded in data platform consolidation and AI enablement  
   - Designed a **cloud-first analytics roadmap** consolidating 14 legacy systems to improve content velocity and operational efficiency
 
-- 🥉 **3rd Place @ Undergraduate Statistics Project Competition** | [Bank of America Branch Risk Forecasting](https://github.com/lqminhhh/branch-risk-forecasting)
+- 🥉 **3rd Place @ Undergraduate Statistics Project Competition** | *[Bank of America Branch Risk Forecasting](https://github.com/lqminhhh/branch-risk-forecasting)*
   - Trained an **XGBoost model with 90% recall** to predict branch closure risk across U.S. markets  
   - Used **survival analysis** to quantify long-term operational viability and lifecycle risk
 
 ## 📌 Featured Projects
 
-- 🎧 **Audible Narrator Classifier** | Senior Thesis
+- 🎧 **Audible Narrator Classifier** | *Senior Thesis*
   - Built a **CNN-based audio classification model** achieving **91% accuracy** on pitch-derived narrator features  
   - Engineered an end-to-end pipeline processing **2M+ audio records** using TensorFlow and DuckDB for efficient experimentation
 
-- 🚗 **Allstate Claim Cost Prediction** | AI/ML Fellowship @ Break Through Tech
+- 🚗 **Allstate Claim Cost Prediction** | *AI/ML Fellowship @ Cornell Tech (Break Through Tech)*
   - Performed EDA and feature engineering on **180K+ auto insurance claims** to uncover key cost drivers  
   - Improved baseline performance using **Random Forest and XGBoost**, achieving a **10% reduction in MAE**
 
