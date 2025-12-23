@@ -107,10 +107,10 @@
 - 💼 LinkedIn: https://linkedin.com/in/lqminhh  
 - 📧 Email: le_m2@denison.edu
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"
     width="1040"
     height="520"
   />
-</p>
+</p> -->
