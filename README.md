@@ -107,13 +107,10 @@
   
 </details>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lqminhhh&show_icons=true&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lqminhhh&layout=compact&hide_border=true" height="170"/>
-</p>
+</p> -->
 
 ## 📫 Let’s Connect
 
