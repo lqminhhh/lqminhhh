@@ -42,6 +42,15 @@
 
 <details>
   <summary>
+    🥇 <b>1st Place @ DataFest x JPMorgan Chase x Denison University</b>
+  </summary>
+  
+- Coming soon ...
+  
+</details>
+
+<details>
+  <summary>
     🥇 <b>1st Place @ Big Red Data Challenge</b> | <i>GiveSmart: Predictive Donor Analytics</i>
   </summary>
   
