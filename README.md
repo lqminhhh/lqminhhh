@@ -19,52 +19,20 @@
 - AI/ML Fellow @ **Allstate**
 - Data Consultant Intern @ **DHL Supply Chain**
 - Data Science Intern @ **Center of Science and Industry (COSI)**
+- Head Tutor @ **Denison Academic Resource Center**
 
 <br clear="right"/>
 
-## 🏆 Competition Achievements
+## 🏆 Achievements
 
-<details>
-  <summary>
-    🥇 <b>1st Place @ DataFest x JPMorgan Chase x Denison University</b>
-  </summary>
-  
-- Coming soon ...
-  
-</details>
-
-<details>
-  <summary>
-    🥇 <b>1st Place @ Big Red Data Challenge</b> | <i>GiveSmart: Predictive Donor Analytics</i>
-  </summary>
-  
-- Applied **clustering, RFM analysis, and survival modeling** to identify the top 20% of donors generating 80% of total revenue  
-- Built predictive forecasts identifying **$300K in incremental Q4 donations**, directly informing funding allocation decisions
-- Link to project [here](https://github.com/lqminhhh/predictive-donor-analytics)
-  
-</details>
-
-<details>
-  <summary>
-    🥈 <b>2nd Place @ Accenture x University of Cincinnati Case Competition </b> | <i>Slide Deck</i>
-  </summary>
-  
-- Architected a **$125M+ digital transformation strategy** with a 12-month payback, grounded in data platform consolidation and AI enablement  
-- Designed a **cloud-first analytics roadmap** consolidating 14 legacy systems to improve content velocity and operational efficiency
-- Link to project [here](https://drive.google.com/file/d/1dH7nzJTK5Z-drj8Lvp-lC6TO3KPUKd8W/view)
-  
-</details>
-
-<details>
-  <summary>
-    🥉 <b>3rd Place @ Undergraduate Statistics Project Competition</b> | <i>Bank of America Branch Risk Forecasting</i>
-  </summary>
-  
-- Trained an **XGBoost model with 90% recall** to predict branch closure risk across U.S. markets  
-- Used **survival analysis** to quantify long-term operational viability and lifecycle risk
-- Link to project [here](https://github.com/lqminhhh/branch-risk-forecasting)
-  
-</details>
+- 🏆 **1st Place @ JPMorgan Chase × ASA DataFest**
+- 🏆 **1st Place @ Denison Big Red Data Challenge**
+- 🥈 **2nd Place @ Accenture × University of Cincinnati Case Competition**
+- 🥉 **3rd Place @ Undergraduate Statistics Project Competition**
+- 🎖️ **6th Place @ Vietnamese Student HackAIthon 2026**
+- 🌟 **Phi Beta Kappa (Top 1%)**
+- 🏅 **Jessen T. Havill Director's Award (Data Analytics Program)**
+- 📐 **Forbes B. Willey Mathematical Excellence Award**
 
 ## 🛠 Tech Stack
 
@@ -137,13 +105,5 @@
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/lqminhh  
-- 📧 Email: le_m2@denison.edu
-
-<!-- <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"
-    width="1040"
-    height="520"
-  />
-</p> -->
+- 📧 Email: minhleq.work@gmail.com
 
