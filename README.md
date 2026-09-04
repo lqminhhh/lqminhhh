@@ -15,7 +15,7 @@
 
 - Data Analytics @ **Denison University** (*Class Valedictorian - Summa Cum Laude*)
 - Data Science Intern @ **Park National Bank**
-- AI Data Engineer Intern (Team Lead) @ **Law Office of Bryan Davenport x Denison Consulting**
+- AI Data Engineer Intern (Team Lead) @ **Law Office of Bryan Davenport**
 - AI/ML Fellow @ **Allstate**
 - Data Consultant Intern @ **DHL Supply Chain**
 - Data Science Intern @ **Center of Science and Industry (COSI)**
